@@ -59,3 +59,7 @@ showIntf
 The script reads `./CRSW_output/CRSW_result.mat`. Edit the path and the
 one-based date indices `m` and `n`  in `showIntf.m` as
 needed.
+
+## Data
+
+The DGB dataset is available at 
