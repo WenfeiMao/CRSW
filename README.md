@@ -60,10 +60,3 @@ showIntf
 The script reads `./CRSW_output/CRSW_result.mat`. Edit the path and the
 one-based date indices `m` and `n`  in `showIntf.m` as
 needed.
-
-## Reference
-
-J. Dong, M. Liao, L. Zhang, and J. Gong, “A Unified Approach of Multitemporal
-SAR Data Filtering Through Adaptive Estimation of Complex Covariance Matrix,”
-*IEEE Transactions on Geoscience and Remote Sensing*, vol. 56, no. 9,
-pp. 5320–5333, 2018. [doi:10.1109/TGRS.2018.2813758](https://doi.org/10.1109/TGRS.2018.2813758).
