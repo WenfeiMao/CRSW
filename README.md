@@ -77,8 +77,7 @@ one-based inclusive indices.
 
 ## Display an interferogram
 
-Run `showIntf` from the CRSW directory to display the wrapped phase difference
-between two dates:
+Run `showIntf` from the CRSW directory to display the Interferogram:
 
 ```matlab
 showIntf
